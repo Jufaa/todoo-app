@@ -2,7 +2,10 @@
 
 # Como se inicia el proyecto?
 
-El proyecto se inicia utilizando:
+
+Lo primero que hay que hacer es un git clone
+
+Una vez realizado el git clone se inicia utilizando:
 
 ### 1 - `npm install`
 
