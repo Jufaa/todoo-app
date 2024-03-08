@@ -1,5 +1,15 @@
-# Como iniciar el proyecto?
+# Todo - App Realizado con create-react-app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Como se inicia el proyecto?
 
-## Available Scripts
+El proyecto se inicia utilizando:
+
+### 1 - `npm install`
+
+### 2 - `npm run start`
+
+## Como hago para correr los tests?
+
+### `npm run test`
+
+Juan Cruz Francitorra
